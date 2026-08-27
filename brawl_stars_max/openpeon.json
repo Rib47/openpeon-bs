@@ -1,0 +1,136 @@
+{
+  "cesp_version": "1.0",
+  "name": "brawl_stars_max",
+  "display_name": "Max (Brawl Stars)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rib47, ST9000HIGE",
+    "github": "Rib47"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/start_lets_go.ogg",
+          "label": "Let's go, come on, zip zip!",
+          "sha256": "33c923a3c5c26cf19f7a9a497164815c26e0c98be6d477d3864ee9a91f1d5f2e"
+        },
+        {
+          "file": "sounds/start_Turbo_Time.ogg",
+          "label": "Turbo time.",
+          "sha256": "ef21a87e431995a20e9694ebc763d07f365a53df9d607109d94458940892225a"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/ack_blast_off.ogg",
+          "label": "Three,two,one,BLAST OFF!",
+          "sha256": "49bcbad9903d6ca000e0a0c0d415d9da9c812e94cf68b87154ec654dd9e5e874"
+        },
+        {
+          "file": "sounds/ack_go_go.ogg",
+          "label": "Go, go, go, go!",
+          "sha256": "c7103fba0280db0dd1b65bd1052ebc7bd480935f3c5f164bca70600fc69ab49c"
+        },
+        {
+          "file": "sounds/ack_no_time.ogg",
+          "label": "No time, gotta move.",
+          "sha256": "ae0126a1e2614b7c9813da3be5f23684d619c427a27b7a4d9cbbd53fe5bc0b08"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/compl_Max_energy.ogg",
+          "label": "Max energy!",
+          "sha256": "314c77646ee8c711856639e8f501226dba2f2feb6f141097d2972c41394aaaf2"
+        },
+        {
+          "file": "sounds/compl_faster.ogg",
+          "label": "Faster than lightning.",
+          "sha256": "942c2c4b0c82cad6c40b7ba1550920b488aa2e3d64a5aa770520e505ceab20f3"
+        },
+        {
+          "file": "sounds/compl_yes_yes.ogg",
+          "label": "Yes yes yes yes!",
+          "sha256": "6280271e8eabba73ba3332ece6a4dd270812b2eb0e8644b5bd23f4973f26ec26"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/error_crashing.ogg",
+          "label": "Crashing, crashing!",
+          "sha256": "578255ae7377901ae9ec691c55d4f4462b6a3d0753d675436c5ef78569019d2d"
+        },
+        {
+          "file": "sounds/error_who_did_that.ogg",
+          "label": "Who did that?",
+          "sha256": "585192de48adb13502a61bf40fd55abcdfd7de93a02a4efd2fe025a95b4a4514"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_did_someone_hit_me.ogg",
+          "label": "Did someone hit me?",
+          "sha256": "b07c3a7dc08bb57e7726f14eb9196189235f97ab67707bcb9a1a5d7d35feafa5"
+        },
+        {
+          "file": "sounds/input_just_warm_up.ogg",
+          "label": "This is just the warm-up, right?",
+          "sha256": "436d58235a4f088bf7d7de4b8b726f0eb1c07298d962deb8f334be4f60978cd3"
+        },
+        {
+          "file": "sounds/input_what_happend.ogg",
+          "label": "Hey! What happened?",
+          "sha256": "f91a86e7c9b6b29614ee2e8174a7d74d1bdb1774f67897810a3c0e46a38dc7bf"
+        },
+        {
+          "file": "sounds/input_why_so_slow.ogg",
+          "label": "Why is everyone so slow?",
+          "sha256": "3031cc982dcfa5adc761fca9294b62f973569369f4cba075f0ec8bba3108f98b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/limit_energy_critical.ogg",
+          "label": "Energy levels, critical.",
+          "sha256": "609a82f4dcbc3819d740592017dc125a43dc68a025cd8680e0e99d2eba34ce30"
+        },
+        {
+          "file": "sounds/limit_more_energy_drink.ogg",
+          "label": "Need more energy drink.",
+          "sha256": "e2be6d6a6319ba1af403dbec1ad67379ad4a188191048b9173e5ca8700fca2e5"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/end_see_ya.ogg",
+          "label": "See ya!",
+          "sha256": "253ab96ec7fc68290b12d1133a522171a9461a231f3e3c8b8f069361e8343507"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/spam_slow_down.ogg",
+          "label": "Time...to slow...down...",
+          "sha256": "e723abcc2a24731937386319733a19da8bff4972bc53797fd8cfc021d87b83b1"
+        }
+      ]
+    }
+  }
+}
