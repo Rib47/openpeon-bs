@@ -15,12 +15,20 @@
         {
           "file": "sounds/start_lets_go.ogg",
           "label": "Let's go, come on, zip zip!",
+<<<<<<< Updated upstream
           "sha256": "33c923a3c5c26cf19f7a9a497164815c26e0c98be6d477d3864ee9a91f1d5f2e"
+=======
+          "sha256": "4b6b7adf6503fcccec34126235cc3cd14ec9f89180a3bac6952123e65132f0ab"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/start_Turbo_Time.ogg",
           "label": "Turbo time.",
+<<<<<<< Updated upstream
           "sha256": "ef21a87e431995a20e9694ebc763d07f365a53df9d607109d94458940892225a"
+=======
+          "sha256": "de84655fd18c9f2ca2aeda8918a7ec3460cac629b0caf2c8122c4caf2ed0522a"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -29,17 +37,29 @@
         {
           "file": "sounds/ack_blast_off.ogg",
           "label": "Three,two,one,BLAST OFF!",
+<<<<<<< Updated upstream
           "sha256": "49bcbad9903d6ca000e0a0c0d415d9da9c812e94cf68b87154ec654dd9e5e874"
+=======
+          "sha256": "175d2a3c0a279fb83bb2832086b2ff92c5784688d38093bbfd24facd061a05d2"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/ack_go_go.ogg",
           "label": "Go, go, go, go!",
+<<<<<<< Updated upstream
           "sha256": "c7103fba0280db0dd1b65bd1052ebc7bd480935f3c5f164bca70600fc69ab49c"
+=======
+          "sha256": "f16af56e60416f7b9601b06b2298e522a66a208fe8778a911dc71caba240cc21"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/ack_no_time.ogg",
           "label": "No time, gotta move.",
+<<<<<<< Updated upstream
           "sha256": "ae0126a1e2614b7c9813da3be5f23684d619c427a27b7a4d9cbbd53fe5bc0b08"
+=======
+          "sha256": "f51ecd3dbeb8ef6910121d0ece095ea66de1be963820b1d1b131dd9cbfce0a79"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -48,17 +68,29 @@
         {
           "file": "sounds/compl_Max_energy.ogg",
           "label": "Max energy!",
+<<<<<<< Updated upstream
           "sha256": "314c77646ee8c711856639e8f501226dba2f2feb6f141097d2972c41394aaaf2"
+=======
+          "sha256": "1b626a258a9e67616279b604ec573b88f9bc0823ee4381010c85b523eddbe9fb"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/compl_faster.ogg",
           "label": "Faster than lightning.",
+<<<<<<< Updated upstream
           "sha256": "942c2c4b0c82cad6c40b7ba1550920b488aa2e3d64a5aa770520e505ceab20f3"
+=======
+          "sha256": "15c9c23021bd53aae9765770ca92590cfb8e3f0a81ae76da220bb6de5819f2ff"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/compl_yes_yes.ogg",
           "label": "Yes yes yes yes!",
+<<<<<<< Updated upstream
           "sha256": "6280271e8eabba73ba3332ece6a4dd270812b2eb0e8644b5bd23f4973f26ec26"
+=======
+          "sha256": "55425e2413e6caf238b7788dde5ab5fe7dffcbd28eacd7db74ef11be32fb8f6b"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -67,12 +99,20 @@
         {
           "file": "sounds/error_crashing.ogg",
           "label": "Crashing, crashing!",
+<<<<<<< Updated upstream
           "sha256": "578255ae7377901ae9ec691c55d4f4462b6a3d0753d675436c5ef78569019d2d"
+=======
+          "sha256": "ca1c91178e76e87cdb9bbbba5425faab322aefae1a379728e26032f596d2d6c1"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/error_who_did_that.ogg",
           "label": "Who did that?",
+<<<<<<< Updated upstream
           "sha256": "585192de48adb13502a61bf40fd55abcdfd7de93a02a4efd2fe025a95b4a4514"
+=======
+          "sha256": "c5976108629be9c033b8778f651335e27b3ba8b3880969caa0d0e4fe83a62ab2"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -81,22 +121,38 @@
         {
           "file": "sounds/input_did_someone_hit_me.ogg",
           "label": "Did someone hit me?",
+<<<<<<< Updated upstream
           "sha256": "b07c3a7dc08bb57e7726f14eb9196189235f97ab67707bcb9a1a5d7d35feafa5"
+=======
+          "sha256": "7bc1365400ee1bcbad4c513d53f84b5e7fe602cf16d47718959d014f36d88553"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/input_just_warm_up.ogg",
           "label": "This is just the warm-up, right?",
+<<<<<<< Updated upstream
           "sha256": "436d58235a4f088bf7d7de4b8b726f0eb1c07298d962deb8f334be4f60978cd3"
+=======
+          "sha256": "0c86db975b7a6269550948239fc7ac90159bfe19a3ce1e7b67fcac461d4bbf03"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/input_what_happend.ogg",
           "label": "Hey! What happened?",
+<<<<<<< Updated upstream
           "sha256": "f91a86e7c9b6b29614ee2e8174a7d74d1bdb1774f67897810a3c0e46a38dc7bf"
+=======
+          "sha256": "d7c2e99626c981cb65b68ef173baa4162494438d48f9fff3dc0eefd7083fdd7f"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/input_why_so_slow.ogg",
           "label": "Why is everyone so slow?",
+<<<<<<< Updated upstream
           "sha256": "3031cc982dcfa5adc761fca9294b62f973569369f4cba075f0ec8bba3108f98b"
+=======
+          "sha256": "9f89ede908e5441e0cff74d1127da0dc59e6d5b4f3eb12fe43e8fa423e659973"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -105,12 +161,20 @@
         {
           "file": "sounds/limit_energy_critical.ogg",
           "label": "Energy levels, critical.",
+<<<<<<< Updated upstream
           "sha256": "609a82f4dcbc3819d740592017dc125a43dc68a025cd8680e0e99d2eba34ce30"
+=======
+          "sha256": "5fdaff07d3922437aa7e78ff7a41969b55702cca9fb2a580a3fe91a0fbe1dcdb"
+>>>>>>> Stashed changes
         },
         {
           "file": "sounds/limit_more_energy_drink.ogg",
           "label": "Need more energy drink.",
+<<<<<<< Updated upstream
           "sha256": "e2be6d6a6319ba1af403dbec1ad67379ad4a188191048b9173e5ca8700fca2e5"
+=======
+          "sha256": "83f5a0d4d0c27b7eb38a8c2dc30496c963a74b6b78a24997a18a761659afa7ba"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -119,7 +183,11 @@
         {
           "file": "sounds/end_see_ya.ogg",
           "label": "See ya!",
+<<<<<<< Updated upstream
           "sha256": "253ab96ec7fc68290b12d1133a522171a9461a231f3e3c8b8f069361e8343507"
+=======
+          "sha256": "660adc7ef6fcbe54de348fd5968c2559d68856cd1a574d628f3e66a4ee37bbaf"
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -128,7 +196,11 @@
         {
           "file": "sounds/spam_slow_down.ogg",
           "label": "Time...to slow...down...",
+<<<<<<< Updated upstream
           "sha256": "e723abcc2a24731937386319733a19da8bff4972bc53797fd8cfc021d87b83b1"
+=======
+          "sha256": "44eef9d9da4d5652316b9bd27461ba749afc409fb8ecdf35cf7e3772533727ee"
+>>>>>>> Stashed changes
         }
       ]
     }
